@@ -1,0 +1,22 @@
+p {
+    color: red;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#para1 {
+    color: blue;
+    font-size: 20px;
+}
+
+.center {
+    color: aqua;
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    color: aquamarine;
+    text-align: right;
+}
