@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Roboto+Mono:wght@100&display=swap');
+
+/* 1em = 16px*/
+
+body {
+    color: #5a5a5a;
+    font-family: 'Oswald', sans-serif;
+}
+
+p,
+h1,
+h6 {
+    background: lavender;
+    display: none;
+}
+
+a,
+span {
+    background: lightblue;
+    display: inline-block;
+}

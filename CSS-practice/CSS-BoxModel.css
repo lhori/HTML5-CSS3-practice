@@ -1,0 +1,17 @@
+h1,
+p {
+    border: 5px solid orange;
+    /* border-top: 10px solid orange;
+    border-bottom: 10px solid orange; */
+    padding: 10px;
+    /* padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    padding-left: 100px; */
+    margin: 20px;
+}
+
+
+/* 
+padding is just a space that is inside the element
+margin is something that space outside of an element */
