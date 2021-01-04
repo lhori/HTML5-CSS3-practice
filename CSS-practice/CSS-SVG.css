@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.owl {
+    fill: lightseagreen;
+    width: 200px;
+    height: 400px;
+}

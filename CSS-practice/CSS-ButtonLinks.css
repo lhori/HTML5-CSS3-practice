@@ -1,0 +1,135 @@
+.button1 {
+    background: red;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    width: 10%;
+    padding: 10px;
+}
+
+.button2 {
+    background: blue;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    width: 10%;
+    padding: 10px;
+}
+
+.button3 {
+    background: green;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    width: 10%;
+    padding: 10px;
+}
+
+.button4 {
+    background: brown;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    width: 10%;
+    padding: 10px;
+}
+
+.border-button1 {
+    background: none;
+    color: #000000;
+    border: 2px solid red;
+    width: 10%;
+    padding: 10px;
+}
+
+.border-button2 {
+    background: none;
+    color: #000000;
+    border: 2px solid blue;
+    width: 10%;
+    padding: 10px;
+}
+
+.border-button3 {
+    background: none;
+    color: #000000;
+    border: 2px solid green;
+    width: 10%;
+    padding: 10px;
+}
+
+.border-button4 {
+    background: none;
+    color: #000000;
+    border: 2px solid brown;
+    width: 10%;
+    padding: 10px;
+}
+
+.hover-button1 {
+    background: none;
+    color: #000000;
+    border: 2px solid red;
+    width: 10%;
+    padding: 10px;
+}
+
+.hover-button1:hover {
+    background: red;
+    color: #ffffff;
+    transition: all 0.5s ease-in;
+}
+
+.hover-button2 {
+    background: none;
+    color: #000000;
+    border: 2px solid blue;
+    width: 10%;
+    padding: 10px;
+}
+
+.hover-button2:hover {
+    background: blue;
+    color: #ffffff;
+    transition: all 0.5s ease-in;
+}
+
+.hover-button3 {
+    background: none;
+    color: #000000;
+    border: 2px solid green;
+    width: 10%;
+    padding: 10px;
+}
+
+.hover-button3:hover {
+    background: green;
+    color: #ffffff;
+    transition: all 0.5s ease-in;
+}
+
+.hover-button4 {
+    background: none;
+    color: #000000;
+    border: 2px solid brown;
+    width: 10%;
+    padding: 10px;
+}
+
+.hover-button4:hover {
+    background: brown;
+    color: #ffffff;
+    transition: all 0.5s ease-in;
+}
