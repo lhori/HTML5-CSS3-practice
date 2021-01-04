@@ -1,0 +1,14 @@
+header {
+    background: purple;
+    color: #ffffff;
+}
+
+.auto {
+    /* width: 1170px; fixed no-wrap with the text*/
+    /*top and bottm value is 0 and right/left is auto*/
+    margin: 0 auto;
+    /* gives the text-wrap*/
+    max-width: 960px;
+    background: red;
+    padding: 1.5em;
+}

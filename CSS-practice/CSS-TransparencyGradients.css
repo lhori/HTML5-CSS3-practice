@@ -1,0 +1,27 @@
+.background {
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: sans-serif;
+    width: 600px;
+    line-height: 1.5;
+    text-align: center;
+    color: #ffffff;
+}
+
+.transparent-bg {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1em;
+}
+
+.secondbackground {
+    background: linear-gradient(60deg, rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.8)), url(background.jpg);
+    /* background: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(0, 0, 255, 0.8)), url(background.jpg); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: sans-serif;
+    width: 600px;
+    line-height: 1.5;
+    text-align: center;
+    color: #ffffff;
+}

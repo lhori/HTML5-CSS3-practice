@@ -1,0 +1,9 @@
+.background {
+    height: 650px;
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: top right; */
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}

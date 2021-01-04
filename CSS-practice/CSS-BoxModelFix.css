@@ -1,0 +1,35 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.box {
+    width: 70%;
+    border: 10px solid orange;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0;
+}
+
+.lightblue {
+    width: 100%;
+    background: lightblue;
+    height: auto;
+    padding: 2em;
+}
+
+.yellow {
+    width: 100%;
+    background: yellow;
+    height: auto;
+    padding: 2em;
+}
